@@ -1,4 +1,4 @@
-update=Tue 14 Aug 2018 03:14:26 PM CST
+update=Fri 12 Oct 2018 04:07:16 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,4 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/media/steward/mmc/Github/kicad/core/library/steward
+LibName30=/home/steward/Github/kicad/core/library/steward

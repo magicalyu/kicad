@@ -407,31 +407,31 @@ Text GLabel 8500 5500 3    60   Input ~ 0
 K15
 Text GLabel 8600 5500 3    60   Input ~ 0
 K16
-Text GLabel 8850 5500 3    60   Input ~ 0
+Text GLabel 10050 5500 3    60   Input ~ 0
 K1
-Text GLabel 8950 5500 3    60   Input ~ 0
+Text GLabel 9950 5500 3    60   Input ~ 0
 K2
-Text GLabel 9050 5500 3    60   Input ~ 0
+Text GLabel 9850 5500 3    60   Input ~ 0
 K3
-Text GLabel 9150 5500 3    60   Input ~ 0
+Text GLabel 9750 5500 3    60   Input ~ 0
 K4
-Text GLabel 9250 5500 3    60   Input ~ 0
+Text GLabel 9650 5500 3    60   Input ~ 0
 K5
-Text GLabel 9350 5500 3    60   Input ~ 0
+Text GLabel 9550 5500 3    60   Input ~ 0
 K6
 Text GLabel 9450 5500 3    60   Input ~ 0
 K7
-Text GLabel 9550 5500 3    60   Input ~ 0
+Text GLabel 9350 5500 3    60   Input ~ 0
 K8
-Text GLabel 9650 5500 3    60   Input ~ 0
+Text GLabel 9250 5500 3    60   Input ~ 0
 K9
-Text GLabel 9750 5500 3    60   Input ~ 0
+Text GLabel 9150 5500 3    60   Input ~ 0
 K10
-Text GLabel 9850 5500 3    60   Input ~ 0
+Text GLabel 9050 5500 3    60   Input ~ 0
 K11
-Text GLabel 9950 5500 3    60   Input ~ 0
+Text GLabel 8950 5500 3    60   Input ~ 0
 K12
-Text GLabel 10050 5500 3    60   Input ~ 0
+Text GLabel 8850 5500 3    60   Input ~ 0
 K13
 Text GLabel 10300 5500 3    60   Input ~ 0
 K14

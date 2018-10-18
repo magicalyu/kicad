@@ -1,5 +1,5 @@
 Drill report for /home/steward/Github/kicad/core/common/main.kicad_pcb
-Created on Fri 12 Oct 2018 05:17:46 PM CST
+Created on Thu 18 Oct 2018 11:42:45 AM CST
 
 Copper Layer Stackup:
     =============================================================
@@ -10,9 +10,9 @@ Copper Layer Stackup:
 Drill file 'main.drl' contains
     plated through holes:
     =============================================================
-    T1  0.30mm  0.012"  (63 holes)
+    T1  0.30mm  0.012"  (104 holes)
 
-    Total plated holes count 63
+    Total plated holes count 104
 
 
 Drill file 'main-NPTH.drl' contains
